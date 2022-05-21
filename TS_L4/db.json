@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "mobile",
+      "price": 5,
+      "id": 1
+    },
+    {
+      "name": "tablet",
+      "price": 8,
+      "id": 2
+    },
+    {
+      "name": "laptop",
+      "price": 15,
+      "id": 3
+    }
+  ],
+  "services": [
+    {
+      "category": "accounting",
+      "duration": 50,
+      "id": 1
+    },
+    {
+      "category": "auditing",
+      "duration": 80,
+      "id": 2
+    }
+  ]
+}
