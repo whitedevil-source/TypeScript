@@ -1,0 +1,30 @@
+{
+    "movies":
+    [
+        {
+            "name":"MovieA",
+            "producer":"ProducerA",
+            "rating":3
+        },
+        {
+            "name":"MovieC",
+            "producer":"ProducerC",
+            "rating":1
+        },
+        {
+            "name":"MovieD",
+            "producer":"ProducerD",
+            "rating":4
+        },
+        {
+            "name":"MovieE",
+            "producer":"ProducerE",
+            "rating":5
+        },
+        {
+            "name":"MovieB",
+            "producer":"ProducerB",
+            "rating":3
+        }
+    ]
+}
